@@ -30,9 +30,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/webdevdemigod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="webdevdemigod" height="30" width="40" /></a>
-<a href="https://twitter.com/xanderymilk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xanderymilk" height="30" width="40" /></a>
+<a href="https://twitter.com/xanderymilkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xanderymilkk" height="30" width="40" /></a>
 <a href="https://fb.com/xander jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xander jacob" height="30" width="40" /></a>
-<a href="https://instagram.com/xanderymilk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanderymilk" height="30" width="40" /></a>
+<a href="https://instagram.com/xanderymilkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xanderymilkk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xander jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xander jacob" height="30" width="40" /></a>
 </p>
 
