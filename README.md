@@ -1,3 +1,7 @@
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Random Stuff**<br><br>- 🌱 I’m currently learning **React, Java, C, MySQL Python**<br><br>- 👯 I’m looking to collaborate on **Any Front End Stuff**<br><br>- 🤝 I’m looking for help with **DSA in C (PLEASE)**<br><br>- 💬 Ask me about **C, react, DSA**<br><br>- 📫 How to reach me **akodiaynisixander@gmail.com**<br><br>- ⚡ Fun fact **I HATE CODING *WINK**
 
