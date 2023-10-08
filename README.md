@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevdemigod" alt="webdevdemigod" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xanderymilk" target="blank"><img src="https://img.shields.io/twitter/follow/xanderymilk?logo=twitter&style=for-the-badge" alt="xanderymilk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xanderymilkk" target="blank"><img src="https://img.shields.io/twitter/follow/xanderymilkk?logo=twitter&style=for-the-badge" alt="xanderymilkk" /></a> </p>
 
 - 🔭 I’m currently working on **Random Stuff**
 
